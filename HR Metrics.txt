@@ -1,0 +1,5 @@
+Age dist
+hiring source
+gender dist
+dept wise dist
+source type wise distribution
